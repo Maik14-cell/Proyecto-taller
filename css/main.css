@@ -1,0 +1,46 @@
+.card{
+  margin-top:10%;
+}
+.container{
+  margin-top: 2%;
+  border-color: black;
+  border-radius: 1cm;
+}
+
+.header{
+    padding: 12px;
+    text-align: center;
+    height: 300px;
+    background-image:url(https://2.bp.blogspot.com/-LAsFpSnaLZw/VSLimmjwotI/AAAAAAAAASw/Qm8bx2eSXnQ/s1600/fondo-rojo-con-lineas-456542.jpeg);
+}
+.avatar{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.user_name{
+  font-size: 20px;
+  margin-top: 14px;
+  color: white;
+}
+.socials{
+  list-style-type:none;
+  text-align: center;
+  padding: 0;
+  
+}
+.socials li{
+  display: inline-block;
+  margin: 5px;
+}
+.about{
+  padding: 10px;
+}
+.about h3{
+  color: black;
+  font-size: 20px;
+}
+.about p{
+  color: black;
+  font-size: 15px;
+}
